@@ -3,12 +3,12 @@ body {
 }
 
 #footer {
-  height: 400vh;
-  background-image: url(../img/footer-interlaced.png);
+  height: 200vh;
+  background-image: url(../img/footer-interlaced-b-d.png);
   background-size: 100%;
   background-position: 0% 101%;
   background-repeat: no-repeat;
-  -webkit-filter: saturate(1.5);
-          filter: saturate(1.5);
+  -webkit-backdrop-filter: saturate(1.5);
+          backdrop-filter: saturate(1.5);
 }
 /*# sourceMappingURL=style.css.map */
